@@ -9,13 +9,11 @@ namespace csharp
     {
         static void Main(string[] args)
         {
-             
-            Console.WriteLine("   /|");
-            Console.WriteLine("  / |");
-            Console.WriteLine(" /  |");
-            Console.WriteLine("/___|");
-
+            string phrase = "Phenyo Koswane";
+            Console.WriteLine(phrase.);
             Console.ReadLine();
+
+
         }
     }
 }
