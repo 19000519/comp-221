@@ -10,10 +10,7 @@ namespace csharp
         static void Main(string[] args)
         {
             string phrase = "Phenyo Koswane";
-            Console.WriteLine(phrase.);
-            Console.ReadLine();
-
-
+            Console.WriteLine(phrase);
         }
     }
 }
